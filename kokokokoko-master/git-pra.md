@@ -6,6 +6,7 @@ Platform : **HTML5**
 ###Content  
 * SmartPhone Application  
 * Motion Share device  
+Ko
 
 ###Member  
 * KOKI WATANABE(MI)  
